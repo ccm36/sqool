@@ -1,2 +1,2 @@
 #sqool
-This is a project I completed as a student at [hackreactor](http://hackreactor.com). This project was worked on with a pair.
+This is a project I completed as a student at [hackreactor](http://hackreactor.com). I used this as an introduction into working with databases
